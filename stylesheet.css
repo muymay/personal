@@ -37,13 +37,26 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    align-items: center
+    align-items: center;
     padding-bottom: 20px;
     border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
 .profilepic {
     position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profilepic .imgBx img {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 
 }
 
