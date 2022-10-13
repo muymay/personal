@@ -35,7 +35,7 @@ body {
 	text-rendering : optimizeLegibility;
 	-webkit-font-smoothing : antialiased;
 	font-size: 19px;
-	background-color: #48A4D2;
+	background-color: #EEF0F7;
 	color: #04143A;
 }
 ol, ul {
@@ -142,7 +142,7 @@ h1.name {
 
 .list .exp {
 	margin-right: 15px;
-	color: #EEF0F7;
+	color: #4a90e2;
 	font-weight: 600;
 	width: 100px;
 }
